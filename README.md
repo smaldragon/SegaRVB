@@ -7,6 +7,7 @@ This board is intended to be a cheap diy option for consoles which have lost the
 The wires of a custom DIN-8 AV cable should be soldered to the through hole pins in the bottom of the board to connect the board to an original console.
 
 ![circuit board render](render.png)
+![circuit schematic](circuit.png)
 
 > Note: the non-critical 12V pin 8 signal which sets the tv to 4:3 mode has been ommitted from this board for simplification.
 
